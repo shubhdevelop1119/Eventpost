@@ -1,0 +1,6 @@
+{
+  "name": "EventPost AI",
+  "description": "Turn your event details into engaging, platform-ready promotional content, posters, and schedules in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
